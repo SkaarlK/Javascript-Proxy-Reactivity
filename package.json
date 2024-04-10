@@ -1,0 +1,15 @@
+{
+  "name": "vuem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "klacfw-dep-watcher.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "winston": "^3.13.0"
+  }
+}
